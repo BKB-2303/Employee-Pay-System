@@ -1,4 +1,4 @@
-# Employee Payroll Management System in Java
+# Employee Payment System
 
 ## Overview
 
